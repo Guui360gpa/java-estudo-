@@ -1,3 +1,4 @@
+package lista.exercicio.oo;
 import java.util.Scanner;
 
 public class Palavra {
